@@ -1,0 +1,151 @@
+
+
+.overlay-section {
+  background: grey;
+  height: auto;
+
+}
+.home-inner {
+    text-align: center;
+    padding: 57px 100px;
+    width: auto;
+}
+
+.home-title {
+    font-size: 72px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    position: center;
+}
+.home-title span {
+      color: red;
+}
+.home-inner>p {
+    color: red;
+    font-size: 18px;
+    font-weight: 300;
+    margin-bottom: 38px;
+    text-transform: uppercase;
+}
+.profile-img {
+    border: 5px solid #fff;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+    height: 130px;
+    margin: 0 auto;
+    width: 140px
+}
+.container{
+    width: 80%;
+    height: 500px;
+    margin: auto;
+    padding: 10px;
+
+
+}
+.inner-left {
+    width: 15%;
+    height: 200px;
+    float: left;
+
+}
+.inner-right {
+    margin-left: 15%;
+    height: 200px;
+
+}
+
+.inner-right>h3 {
+    margin-top: 0px;
+    font-size: 24px;
+    font-weight: 600;
+    text-transform: uppercase
+}
+.inner-right>p {
+    color: #727272;
+    font-size: 15px;
+    line-height: 28px;
+    margin-bottom: 35px;
+}
+ul {
+  padding: inherit;
+  list-style-type: none;
+}
+.inner-right ul li{
+    border-bottom: 1px;
+    color: #727272;
+    font-size: 15px;
+    margin-bottom: 12px;
+    padding-bottom: 12px;
+}
+#resume {
+  width: 80%;
+  height: 500px;
+  margin: auto;
+  padding: 10px;
+
+
+}
+.title {
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 35px;
+    text-transform: uppercase;
+}
+.skill-inner {
+    display: inline;
+    float: left;
+    width: 100%;
+}
+.skill-inner p {
+    color: #727272;
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: 400;
+}
+skill-progressbar{
+    display: inline;
+    float: left;
+    width: 100%;
+}
+.skill-progressbar span{
+    color: #727272;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+}
+.box {
+    background-color: orange;
+    border: 1px solid green;
+    height: 5%;
+    width: 100%;
+    margin: 0 0 20px 0;
+}
+.boxx {
+    background-color: orange;
+    border: 1px solid green;
+    height: 5%;
+    width: 80%;
+    margin: 0 0 20px 0;
+}
+.boxxx {
+    background-color: orange;
+    border: 1px solid green;
+    height: 5%;
+    width: 60%;
+    margin: 0 0 20px 0;
+}
+#experience {
+    width: 80%;
+    height: 500px;
+    margin: auto;
+    padding: 10px;
+}
+.experience-inner p {
+    color: #727272;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+}
